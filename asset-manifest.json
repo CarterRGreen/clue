@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clue/static/css/main.f855e6bc.css",
+    "main.js": "/clue/static/js/main.3e5a1ba2.js",
+    "static/js/453.8548bf81.chunk.js": "/clue/static/js/453.8548bf81.chunk.js",
+    "static/media/logo.svg": "/clue/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/clue/index.html",
+    "main.f855e6bc.css.map": "/clue/static/css/main.f855e6bc.css.map",
+    "main.3e5a1ba2.js.map": "/clue/static/js/main.3e5a1ba2.js.map",
+    "453.8548bf81.chunk.js.map": "/clue/static/js/453.8548bf81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3e5a1ba2.js"
+  ]
+}
